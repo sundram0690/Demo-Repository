@@ -1,4 +1,4 @@
-# Organisation Powersheel Directory
+# Organisation Powershell Directory
 
 ##### List of Powershell Scirpt
 
